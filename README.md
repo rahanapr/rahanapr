@@ -5,8 +5,8 @@
 <img align="center" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="center">
-<code align="right"><a href="https://www.linkedin.com/in/rahanapr/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">LinkedIn</a></code>
-<code align="right"><a href="https://github.com/rahanapr/rahanapr/" title="GitHub Profile"><img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" >GitHub</a></code>
+<code align="right"><a href="https://www.linkedin.com/in/rahanapr/" title="LinkedIn Profile"><img width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">LinkedIn</a></code>
+<code align="right"><a href="https://github.com/rahanapr/rahanapr/" title="GitHub Profile"><img width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" >GitHub</a></code>
  </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
